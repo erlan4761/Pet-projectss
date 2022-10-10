@@ -30,6 +30,10 @@ h3 {
   font-weight: 300;
   color: gray;
 }
+.container {
+  display: flex;
+  justify-content: center;
+}
 
 .header__logo {
   color: inherit;
