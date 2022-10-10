@@ -76,7 +76,7 @@ h3 {
 
 .hero__links {
   display: flex;
-  text-align: center;
+  justify-self: center;
 }
 
 .hero__link {
@@ -93,6 +93,7 @@ h3 {
 }
 
 .hero__box {
+  dispaly: flex;
   max-width: 500px;
   justify-self: center;
   overflow: hidden;
