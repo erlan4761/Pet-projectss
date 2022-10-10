@@ -106,6 +106,7 @@ h3 {
 
 .hero__box-img {
   animation: ava-bg 3s infinite alternate;
+  justify-self: center;
 }
 
 
