@@ -76,6 +76,7 @@ h3 {
 
 .hero__links {
   display: flex;
+  text-align: center;
 }
 
 .hero__link {
